@@ -1,4 +1,4 @@
- Project 3: Web APIs & Classification
+# Project 3: Web APIs & Classification
 Description
 In week four we've learned about a few different classifiers. In week five we'll learn about webscraping, APIs, and Natural Language Processing (NLP). Now we're going to put those skills to the test.
 
