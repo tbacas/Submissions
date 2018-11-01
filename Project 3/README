@@ -1,0 +1,12 @@
+ Project 3: Web APIs & Classification
+Description
+In week four we've learned about a few different classifiers. In week five we'll learn about webscraping, APIs, and Natural Language Processing (NLP). Now we're going to put those skills to the test.
+
+For project 3, your goal is two-fold:
+
+Using Reddit's API, you'll collect posts from two subreddits of your choosing.
+You'll then use NLP to train a classifier on which subreddit a given post came from. This is a binary classification problem.
+About the API
+Reddit's API is fairly straightforward. For example, if I want the posts from /r/boardgames, all I have to do is add .json to the end of the url: https://www.reddit.com/r/boardgames.json
+
+To help you get started, we have a primer video on how to use Reddit's API: https://www.youtube.com/watch?v=5Y3ZE26Ciuk
