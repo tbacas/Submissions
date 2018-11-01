@@ -17,6 +17,8 @@ Create and compare two models. One of these must be a random forest, however the
 A Jupyter Notebook with your analysis for a peer audience of data scientists.
 An executive summary of the results you found.
 A short presentation outlining your process and findings for a semi-technical audience.
+
+
 Pro Tip 1: You can find a good example executive summary here.
 
 Pro Tip 2: Reddit will give you 25 posts per request. To get enough data, you'll need to hit Reddit's API repeatedly (most likely in a for loop). Be sure to use the time.sleep() function at the end of your loop to allow for a break in between requests. THIS IS CRUCIAL
